@@ -1,0 +1,13 @@
+C:\Users\Martin\source\repos\GalacticaApp\GalacticaApp\bin\Debug\GalacticaApp.exe.config
+C:\Users\Martin\source\repos\GalacticaApp\GalacticaApp\bin\Debug\GalacticaApp.exe
+C:\Users\Martin\source\repos\GalacticaApp\GalacticaApp\bin\Debug\GalacticaApp.pdb
+C:\Users\Martin\source\repos\GalacticaApp\GalacticaApp\obj\Debug\GalacticaApp.csproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\GalacticaApp\GalacticaApp\obj\Debug\GalacticaApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Martin\source\repos\GalacticaApp\GalacticaApp\obj\Debug\GalacticaApp.Form1.resources
+C:\Users\Martin\source\repos\GalacticaApp\GalacticaApp\obj\Debug\GalacticaApp.Properties.Resources.resources
+C:\Users\Martin\source\repos\GalacticaApp\GalacticaApp\obj\Debug\GalacticaApp.csproj.GenerateResource.cache
+C:\Users\Martin\source\repos\GalacticaApp\GalacticaApp\obj\Debug\GalacticaApp.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\GalacticaApp\GalacticaApp\obj\Debug\GalacticaApp.exe
+C:\Users\Martin\source\repos\GalacticaApp\GalacticaApp\obj\Debug\GalacticaApp.pdb
+C:\Users\Martin\source\repos\GalacticaApp\GalacticaApp\obj\Debug\GalacticaApp.Main.resources
+C:\Users\Martin\source\repos\GalacticaApp\GalacticaApp\obj\Debug\GalacticaApp.Form2.resources
